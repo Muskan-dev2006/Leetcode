@@ -9,21 +9,19 @@ class Solution {
         for(int num : nums){
             points[num] += num;
         }
-        int []dp = new int[max + 1];
-        Arrays.fill(dp , -1);
-        return solve(max, points,dp);
+        
+        return solve(max, points);
     }
 
-    public int solve(int i, int []points, int []dp){
-        if(i == 0) return 0;
-        if(i == 1) return points[1];
-        if(dp[i]!=-1){
-            return dp[i];
+    public int solve(int i, int []points){
+        int []dp = new int[i + 1];
+        dp[0] = 0;
+        dp[1] = points[1];
+        for(int k=2; k<=i; k++){
+            int take = points[k] + dp[k-2];
+            int nottake = dp[k-1];
+            dp[k] = Math.max(take, nottake);
         }
-        int take = points[i] + solve(i-2, points,dp);
-        int nottake = solve(i-1,points,dp);
-
-        dp[i] =  Math.max(take, nottake);
         return dp[i];
     }
 }
