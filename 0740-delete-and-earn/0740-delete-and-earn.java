@@ -17,9 +17,11 @@ class Solution {
         int []dp = new int[i + 1];
         dp[0] = 0;
         dp[1] = points[1];
+        int take = 0;
+        int nottake = 0;
         for(int k=2; k<=i; k++){
-            int take = points[k] + dp[k-2];
-            int nottake = dp[k-1];
+            take = points[k] + dp[k-2];
+            nottake = dp[k-1];
             dp[k] = Math.max(take, nottake);
         }
         return dp[i];
