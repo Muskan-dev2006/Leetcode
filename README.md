@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Muskan-dev2006/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -22,9 +23,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
