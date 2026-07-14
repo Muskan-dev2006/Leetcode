@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Muskan-dev2006/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Muskan-dev2006/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0213-house-robber-ii) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Muskan-dev2006/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Muskan-dev2006/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
