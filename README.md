@@ -11,6 +11,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Muskan-dev2006/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0213-house-robber-ii) |
@@ -24,6 +25,7 @@
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Muskan-dev2006/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Muskan-dev2006/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0213-house-robber-ii) |
@@ -71,4 +73,5 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
