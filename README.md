@@ -27,6 +27,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Muskan-dev2006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1920-build-array-from-permutation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -96,6 +97,7 @@
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
