@@ -4,9 +4,10 @@ class Solution {
         if(ans.length != m*n){
            return new int[][]{};
         }
+        int k=0;
         for(int i=0; i<m;i++){
             for(int j=0; j<n; j++){
-                grid[i][j] = ans[i*n+j];
+                grid[i][j] = ans[k++];
             }
         }
         return grid;
