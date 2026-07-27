@@ -9,6 +9,7 @@
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Matrix
 |  |
@@ -135,16 +137,23 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
