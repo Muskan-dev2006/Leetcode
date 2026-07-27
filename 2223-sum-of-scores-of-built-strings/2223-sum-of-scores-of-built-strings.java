@@ -1,9 +1,10 @@
 class Solution {
     public long sumScores(String s) {
-        int []z = new int[s.length()];
+        int n = s.length();
+        int []z = new int[n];
         int left = 0;
         int right = 0;
-        for(int i=1; i<s.length();i++){
+        for(int i=1; i<n;i++){
             if(i<=right){
                 z[i] = Math.min(right-i+1,z[i-left]);
             }
@@ -19,6 +20,6 @@ class Solution {
         for(int i=0; i<z.length;i++){
             sum += z[i];
         }
-        return sum + s.length();
+        return sum + n;
     }
 }
