@@ -23,6 +23,7 @@
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Muskan-dev2006/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Muskan-dev2006/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0213-house-robber-ii) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
@@ -114,6 +116,7 @@
 | [0054-spiral-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
