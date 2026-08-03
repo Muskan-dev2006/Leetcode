@@ -38,6 +38,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Muskan-dev2006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -63,6 +64,7 @@
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0070-climbing-stairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
 | [3099-harshad-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Muskan-dev2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Muskan-dev2006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -206,4 +209,5 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
