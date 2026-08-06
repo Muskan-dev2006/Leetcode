@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/Muskan-dev2006/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Muskan-dev2006/Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Muskan-dev2006/Leetcode/tree/master/0091-decode-ways) |
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -58,6 +59,7 @@
 | [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Muskan-dev2006/Leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Muskan-dev2006/Leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Muskan-dev2006/Leetcode/tree/master/0198-house-robber) |
