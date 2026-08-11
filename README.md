@@ -41,6 +41,7 @@
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0518-coin-change-ii) |
+| [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
@@ -98,6 +99,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Muskan-dev2006/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 ## Sliding Window
@@ -173,6 +175,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Muskan-dev2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -229,6 +232,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
