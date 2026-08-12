@@ -14,6 +14,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/Muskan-dev2006/Leetcode/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -77,6 +78,7 @@
 | [0322-coin-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
