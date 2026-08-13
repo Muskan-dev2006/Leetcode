@@ -1,7 +1,7 @@
 class Solution {
     public boolean isAllStars(String s, int i){
-        for(int j=0; j<=i; j++){
-            if(s.charAt(j) != '*'){
+        for(int j=1; j<=i; j++){
+            if(s.charAt(j-1) != '*'){
                 return false;
             }
             
@@ -12,37 +12,35 @@ class Solution {
         int n = s.length();
         int m = p.length();
 
-        int [][]dp = new int[n][m];
-        for(int []nums : dp){
-            Arrays.fill(nums,-1);
-        }
-        return solve(s,p,n-1,m-1,dp);
-    }
-    public boolean solve(String s, String p, int i, int j, int [][]dp){
-        if(i < 0 && j<0){
-            return true;
-        }
-        if(i >=0 && j<0){
-            return false;
-        }
-        if( i < 0 && j>=0){
-            return isAllStars(p,j);
-        }
-        
-        if(dp[i][j]!=-1){
-            return dp[i][j] == 1;
+        boolean [][]dp = new boolean[n+1][m+1];
+
+        dp[0][0] = true;
+
+        for(int i=1; i<=n;i++){
+            dp[i][0] = false;
         }
 
-        if(s.charAt(i) == p.charAt(j) || p.charAt(j) == '?'){
-            dp[i][j] = solve(s,p,i-1,j-1,dp) ? 1 : 0;
+        for(int j=1; j<=m; j++){
+            dp[0][j] = isAllStars(p,j);
         }
 
-        else if(p.charAt(j) == '*'){
-            dp[i][j] = solve(s,p,i,j-1,dp) || solve(s,p,i-1,j,dp) ? 1 : 0;
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=m; j++){
+
+                if(s.charAt(i-1) == p.charAt(j-1) || p.charAt(j-1) == '?'){
+                    dp[i][j] = dp[i-1][j-1];
+                }
+                else if(p.charAt(j-1) == '*'){
+                    dp[i][j] = dp[i-1][j] || dp[i][j-1];
+                }
+
+                else{
+                    dp[i][j] = false;
+                }
+            }
         }
-        else{
-            dp[i][j] = 0;
-        }
-        return dp[i][j] == 1;
+        return dp[n][m];
+
     }
+
 }
