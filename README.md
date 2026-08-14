@@ -15,6 +15,7 @@
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Muskan-dev2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -105,6 +106,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0290-word-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Muskan-dev2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
