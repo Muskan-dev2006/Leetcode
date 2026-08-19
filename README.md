@@ -97,6 +97,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
+| [0397-integer-replacement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -137,6 +138,7 @@
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0397-integer-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,6 +296,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/Muskan-dev2006/Leetcode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
