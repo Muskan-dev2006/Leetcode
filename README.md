@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Muskan-dev2006/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Muskan-dev2006/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Muskan-dev2006/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Muskan-dev2006/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
