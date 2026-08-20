@@ -72,6 +72,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-dev2006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-dev2006/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Muskan-dev2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Muskan-dev2006/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -245,6 +246,7 @@
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
