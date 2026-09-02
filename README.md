@@ -370,4 +370,8 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1763-longest-nice-substring) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Muskan-dev2006/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
