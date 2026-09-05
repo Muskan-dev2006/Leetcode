@@ -69,6 +69,7 @@
 | [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Muskan-dev2006/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Muskan-dev2006/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Muskan-dev2006/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -151,6 +152,7 @@
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Muskan-dev2006/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Muskan-dev2006/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-dev2006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Muskan-dev2006/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -183,6 +185,7 @@
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Muskan-dev2006/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3099-harshad-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Muskan-dev2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -240,6 +243,7 @@
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Muskan-dev2006/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Muskan-dev2006/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-dev2006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Muskan-dev2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -325,6 +329,7 @@
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Muskan-dev2006/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Enumeration
 |  |
 | ------- |
