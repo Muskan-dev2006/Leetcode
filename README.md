@@ -272,6 +272,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
+| [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -380,4 +382,12 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Muskan-dev2006/Leetcode/tree/master/0176-second-highest-salary) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
