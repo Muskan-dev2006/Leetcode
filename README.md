@@ -65,6 +65,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Muskan-dev2006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
@@ -224,6 +225,7 @@
 | [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
@@ -273,6 +275,7 @@
 | [0279-perfect-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
 ## Rolling Hash
 |  |
 | ------- |
