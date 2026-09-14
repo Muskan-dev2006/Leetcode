@@ -69,6 +69,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Muskan-dev2006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
@@ -234,6 +235,7 @@
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
@@ -287,6 +289,7 @@
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -403,6 +407,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Muskan-dev2006/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
