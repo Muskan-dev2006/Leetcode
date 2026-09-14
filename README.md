@@ -188,6 +188,7 @@
 | [0279-perfect-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0836-rectangle-overlap](https://github.com/Muskan-dev2006/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
@@ -406,4 +407,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Muskan-dev2006/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
