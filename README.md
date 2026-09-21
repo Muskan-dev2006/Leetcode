@@ -60,6 +60,7 @@
 | [0518-coin-change-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
+| [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
@@ -234,6 +235,7 @@
 | [0130-surrounded-regions](https://github.com/Muskan-dev2006/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Muskan-dev2006/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
@@ -290,6 +292,7 @@
 | [0322-coin-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
@@ -385,6 +388,7 @@
 | [0200-number-of-islands](https://github.com/Muskan-dev2006/Leetcode/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -414,6 +418,7 @@
 | [0130-surrounded-regions](https://github.com/Muskan-dev2006/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Muskan-dev2006/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
