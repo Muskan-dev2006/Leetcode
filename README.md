@@ -48,6 +48,7 @@
 | [0064-minimum-path-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Muskan-dev2006/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -488,6 +489,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -503,6 +505,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -510,4 +513,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
