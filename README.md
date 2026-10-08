@@ -95,6 +95,7 @@
 | [1920-build-array-from-permutation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-dev2006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Muskan-dev2006/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-dev2006/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -185,6 +186,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Muskan-dev2006/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-dev2006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Muskan-dev2006/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Muskan-dev2006/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Muskan-dev2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Sliding Window
 |  |
@@ -501,6 +503,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Muskan-dev2006/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Muskan-dev2006/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Bracket Sequences
 |  |
 | ------- |
