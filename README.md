@@ -23,6 +23,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Muskan-dev2006/Leetcode/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -137,6 +138,7 @@
 | [0518-coin-change-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -181,6 +183,7 @@
 | [0397-integer-replacement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -502,6 +505,7 @@
 | [0085-maximal-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -514,6 +518,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
