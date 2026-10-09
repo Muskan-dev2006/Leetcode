@@ -31,6 +31,7 @@
 | [1143-longest-common-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Muskan-dev2006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Muskan-dev2006/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -182,6 +183,7 @@
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Muskan-dev2006/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Muskan-dev2006/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Muskan-dev2006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -501,6 +503,7 @@
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Muskan-dev2006/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Muskan-dev2006/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -511,6 +514,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
