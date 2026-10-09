@@ -9,19 +9,19 @@ class Solution {
                 open++;
             }
             else{
-               if(i+1<n && s.charAt(i+1)==')'){
-                i++;
-               }
-               else{
-                insertions++;
-               }
+               if (open == 0) {
+                    insertions++;
+                    open++;
+                }
 
-               if(open > 0){
+                
+                if (i + 1 < s.length() && s.charAt(i + 1) == ')') {
+                    i++;
+                } else {
+                    insertions++;
+                }
+
                 open--;
-               }
-               else{
-                insertions++;
-               }
             }
 
         }
