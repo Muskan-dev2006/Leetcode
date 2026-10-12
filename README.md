@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Muskan-dev2006/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Muskan-dev2006/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0054-spiral-matrix) |
@@ -154,6 +155,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Muskan-dev2006/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -266,6 +268,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Muskan-dev2006/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Muskan-dev2006/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0063-unique-paths-ii) |
