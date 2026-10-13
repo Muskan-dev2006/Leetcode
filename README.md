@@ -110,6 +110,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Muskan-dev2006/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Muskan-dev2006/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -202,6 +203,7 @@
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Muskan-dev2006/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Muskan-dev2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,6 +312,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Muskan-dev2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Muskan-dev2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
