@@ -212,6 +212,7 @@
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Muskan-dev2006/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Muskan-dev2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Muskan-dev2006/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
@@ -251,6 +252,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Muskan-dev2006/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Muskan-dev2006/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Muskan-dev2006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Muskan-dev2006/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
