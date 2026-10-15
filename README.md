@@ -110,6 +110,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-dev2006/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Muskan-dev2006/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -183,6 +184,7 @@
 | [1763-longest-nice-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Muskan-dev2006/Leetcode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Muskan-dev2006/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Muskan-dev2006/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -597,4 +599,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
