@@ -47,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Muskan-dev2006/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Muskan-dev2006/Leetcode/tree/master/0048-rotate-image) |
@@ -311,6 +312,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
