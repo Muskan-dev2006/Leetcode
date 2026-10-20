@@ -7,6 +7,7 @@
 | [0006-zigzag-conversion](https://github.com/Muskan-dev2006/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Muskan-dev2006/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/0043-multiply-strings) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
@@ -387,6 +389,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Muskan-dev2006/Leetcode/tree/master/0686-repeated-string-match) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -614,4 +617,16 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
