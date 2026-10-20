@@ -24,6 +24,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/Muskan-dev2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -391,6 +392,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Muskan-dev2006/Leetcode/tree/master/0686-repeated-string-match) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
@@ -621,10 +623,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
