@@ -2,25 +2,31 @@ class Solution {
     public String shortestPalindrome(String s) {
         StringBuilder sb = new StringBuilder(s);
         String rev = sb.reverse().toString();
-        String str = s+"$"+rev;
-        int lps[] = new int[str.length()];
-        int i=1;
-        int j=0;
-        while(i<str.length()){
-            if(str.charAt(i)==str.charAt(j)){
-                lps[i]=j+1;
+        String str = s + "$" + rev;
+
+        int n = str.length();
+        int []lps = new int [n];
+
+        int i = 1;
+        int j = 0;
+        while(i < n){
+            char ch1 = str.charAt(i);
+            char ch2 = str.charAt(j);
+            if(ch1 == ch2){
+                lps[i] = j+1;
                 i++;
                 j++;
             }
             else{
-                if(j!=0){
-                    j=lps[j-1];
+                if(j==0){
+                    lps[i] = 0;
+                    i++;
                 }
                 else{
-                    i++;
+                    j = lps[j-1];
                 }
             }
         }
-        return rev.substring(0,rev.length()-lps[str.length()-1])+s;
+        return rev.substring(0,rev.length()-lps[n-1]) + s;
     }
 }
