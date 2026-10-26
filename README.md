@@ -294,6 +294,7 @@
 | [0069-sqrtx](https://github.com/Muskan-dev2006/Leetcode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Muskan-dev2006/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Muskan-dev2006/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Muskan-dev2006/Leetcode/tree/master/0704-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
@@ -662,4 +663,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Muskan-dev2006/Leetcode/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Muskan-dev2006/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
