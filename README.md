@@ -252,6 +252,7 @@
 | [0070-climbing-stairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/0279-perfect-squares) |
+| [0367-valid-perfect-square](https://github.com/Muskan-dev2006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/Muskan-dev2006/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -290,6 +291,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Muskan-dev2006/Leetcode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Muskan-dev2006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Muskan-dev2006/Leetcode/tree/master/0704-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
