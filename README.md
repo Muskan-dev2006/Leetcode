@@ -249,6 +249,7 @@
 | [0048-rotate-image](https://github.com/Muskan-dev2006/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Muskan-dev2006/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Muskan-dev2006/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Muskan-dev2006/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/0279-perfect-squares) |
@@ -290,6 +291,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Muskan-dev2006/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Muskan-dev2006/Leetcode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Muskan-dev2006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -656,4 +658,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Muskan-dev2006/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
