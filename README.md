@@ -80,6 +80,7 @@
 | [0322-coin-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Muskan-dev2006/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -157,6 +158,7 @@
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
 | [0397-integer-replacement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Muskan-dev2006/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0518-coin-change-ii) |
@@ -211,6 +213,7 @@
 | [0135-candy](https://github.com/Muskan-dev2006/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/Muskan-dev2006/Leetcode/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/Muskan-dev2006/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -346,6 +349,7 @@
 | [0242-valid-anagram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Muskan-dev2006/Leetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/Muskan-dev2006/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
