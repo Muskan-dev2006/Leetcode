@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-dev2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Muskan-dev2006/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0022-generate-parentheses) |
@@ -180,6 +181,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-dev2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Muskan-dev2006/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -239,6 +241,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-dev2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0239-sliding-window-maximum) |
