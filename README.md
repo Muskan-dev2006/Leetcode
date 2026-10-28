@@ -107,6 +107,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Muskan-dev2006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -255,6 +256,7 @@
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Muskan-dev2006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Muskan-dev2006/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-dev2006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -307,6 +309,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-dev2006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Search
@@ -320,6 +323,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Muskan-dev2006/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Muskan-dev2006/Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-dev2006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Muskan-dev2006/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
