@@ -90,6 +90,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Muskan-dev2006/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -330,6 +331,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Muskan-dev2006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Muskan-dev2006/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Muskan-dev2006/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -618,6 +620,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Muskan-dev2006/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -649,6 +652,7 @@
 | [0042-trapping-rain-water](https://github.com/Muskan-dev2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Muskan-dev2006/Leetcode/tree/master/0901-online-stock-span) |
@@ -734,4 +738,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Muskan-dev2006/Leetcode/tree/master/0901-online-stock-span) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
