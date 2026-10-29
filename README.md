@@ -104,6 +104,7 @@
 | [0697-degree-of-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Muskan-dev2006/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Muskan-dev2006/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
@@ -624,6 +625,7 @@
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Muskan-dev2006/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Muskan-dev2006/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -655,6 +657,7 @@
 | [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Muskan-dev2006/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Muskan-dev2006/Leetcode/tree/master/0901-online-stock-span) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Muskan-dev2006/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Backtracking
