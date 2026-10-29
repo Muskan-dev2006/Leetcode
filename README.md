@@ -36,6 +36,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Muskan-dev2006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -622,6 +623,7 @@
 | [0856-score-of-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Muskan-dev2006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Muskan-dev2006/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Muskan-dev2006/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
