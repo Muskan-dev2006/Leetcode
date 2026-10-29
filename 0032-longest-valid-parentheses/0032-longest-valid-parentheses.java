@@ -1,9 +1,8 @@
 class Solution {
     public int longestValidParentheses(String s) {
-        int count = 0;
-        int maxlen= 0;
-        int n = s.length();
+        int maxlen = 0;
         Stack<Integer>st = new Stack<>();
+        int n = s.length();
         st.push(-1);
         for(int i=0; i<n; i++){
             char ch = s.charAt(i);
@@ -13,12 +12,11 @@ class Solution {
             else{
                 st.pop();
                 if(st.isEmpty()){
-                   st.push(i);
+                    st.push(i);
                 }
                 else{
-                   maxlen = Math.max(maxlen, i-st.peek());
+                    maxlen = Math.max(maxlen,i-st.peek());
                 }
-               
             }
         }
         return maxlen;
