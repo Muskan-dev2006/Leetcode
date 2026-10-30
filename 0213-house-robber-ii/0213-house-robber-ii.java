@@ -1,34 +1,35 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        if(n == 1){
+        if(n==1){
             return nums[0];
         }
-       int prev = nums[0];
-       int prev2 = 0;
-       for(int i=1; i<n-1; i++){
-            int take = nums[i];
-            if( i > 1){
-                take += prev2;
-            }
-            int nottake = prev;
-            int curri = Math.max(take, nottake);
-            prev2 = prev;
-            prev = curri;
-       }
-       int prev1 = nums[1];
-       int prev3 = 0;
-       for(int i=2; i<n; i++){
-            int take = nums[i];
-            if( i > 1){
-                take += prev3;
-            }
-            int nottake = prev1;
-            int curri = Math.max(take, nottake);
-            prev3 = prev1;
-            prev1= curri;
-       }
-       return Math.max(prev,prev1);
+        int []dp1 = new int[n+1];
+        int []dp2 = new int[n+2];
+
+        Arrays.fill(dp1,-1);
+        Arrays.fill(dp2,-1);
+
+        int take = solve(n-2,nums,0,dp1);
+        int nottake = solve(n-1,nums,1,dp2);
+
+        return Math.max(take,nottake);
     }
-    
+    public int solve(int i ,int []nums, int start, int []dp){
+        if(i < start){
+            return 0;
+        }
+        if(i==start){
+            return nums[start];
+        }
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        int take = nums[i] + solve(i-2, nums,start,dp);
+        int nottake = solve(i-1,nums,start,dp);
+
+        dp[i] = Math.max(take,nottake);
+
+        return dp[i];
+    }
 }
