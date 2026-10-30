@@ -96,6 +96,7 @@
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -206,6 +207,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/Muskan-dev2006/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
@@ -323,6 +325,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-dev2006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
