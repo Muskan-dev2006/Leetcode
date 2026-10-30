@@ -13,6 +13,7 @@
 | [0038-count-and-say](https://github.com/Muskan-dev2006/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Muskan-dev2006/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Muskan-dev2006/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Muskan-dev2006/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Muskan-dev2006/Leetcode/tree/master/0091-decode-ways) |
@@ -59,6 +60,7 @@
 | [0042-trapping-rain-water](https://github.com/Muskan-dev2006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Muskan-dev2006/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Muskan-dev2006/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Muskan-dev2006/Leetcode/tree/master/0057-insert-interval) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Muskan-dev2006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Muskan-dev2006/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Muskan-dev2006/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -392,6 +395,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Muskan-dev2006/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Muskan-dev2006/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Muskan-dev2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
