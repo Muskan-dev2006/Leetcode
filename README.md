@@ -545,6 +545,7 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Muskan-dev2006/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
