@@ -95,6 +95,7 @@
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -204,6 +205,7 @@
 | [0389-find-the-difference](https://github.com/Muskan-dev2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/Muskan-dev2006/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
@@ -290,6 +292,7 @@
 | [0367-valid-perfect-square](https://github.com/Muskan-dev2006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Muskan-dev2006/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Muskan-dev2006/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -319,6 +322,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-dev2006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -745,4 +749,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
