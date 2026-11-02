@@ -97,6 +97,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Muskan-dev2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -303,6 +304,7 @@
 | [0279-perfect-squares](https://github.com/Muskan-dev2006/Leetcode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Muskan-dev2006/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Muskan-dev2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Muskan-dev2006/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -413,6 +415,7 @@
 | [0389-find-the-difference](https://github.com/Muskan-dev2006/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Muskan-dev2006/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Muskan-dev2006/Leetcode/tree/master/0692-top-k-frequent-words) |
