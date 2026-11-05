@@ -128,6 +128,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Muskan-dev2006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Muskan-dev2006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -369,6 +370,7 @@
 | [0704-binary-search](https://github.com/Muskan-dev2006/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Muskan-dev2006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Muskan-dev2006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Muskan-dev2006/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -409,6 +411,7 @@
 | [0283-move-zeroes](https://github.com/Muskan-dev2006/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Muskan-dev2006/Leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Muskan-dev2006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Muskan-dev2006/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Muskan-dev2006/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Muskan-dev2006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -426,6 +429,7 @@
 | [0561-array-partition](https://github.com/Muskan-dev2006/Leetcode/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Muskan-dev2006/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Muskan-dev2006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Muskan-dev2006/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Muskan-dev2006/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
