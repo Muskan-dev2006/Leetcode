@@ -499,6 +499,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muskan-dev2006/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Muskan-dev2006/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Muskan-dev2006/Leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Muskan-dev2006/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -507,6 +508,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Muskan-dev2006/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Muskan-dev2006/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1044-longest-duplicate-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Muskan-dev2006/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Muskan-dev2006/Leetcode/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -598,6 +600,7 @@
 | [0226-invert-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -615,6 +618,7 @@
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -641,6 +645,7 @@
 | [0226-invert-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
