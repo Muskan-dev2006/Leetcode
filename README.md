@@ -226,6 +226,7 @@
 | [0692-top-k-frequent-words](https://github.com/Muskan-dev2006/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Muskan-dev2006/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -483,6 +484,7 @@
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Muskan-dev2006/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Muskan-dev2006/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Muskan-dev2006/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Muskan-dev2006/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -609,6 +611,7 @@
 | [0437-path-sum-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -638,6 +641,7 @@
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Muskan-dev2006/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Muskan-dev2006/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Muskan-dev2006/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Muskan-dev2006/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -666,6 +670,7 @@
 | [0437-path-sum-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
