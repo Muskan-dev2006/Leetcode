@@ -479,6 +479,7 @@
 | [0322-coin-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -612,6 +613,7 @@
 | [0437-path-sum-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -638,6 +640,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Muskan-dev2006/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Muskan-dev2006/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Muskan-dev2006/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Muskan-dev2006/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -673,6 +676,7 @@
 | [0437-path-sum-iii](https://github.com/Muskan-dev2006/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## DP on Trees
 |  |
