@@ -121,6 +121,7 @@
 | [0860-lemonade-change](https://github.com/Muskan-dev2006/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Muskan-dev2006/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Muskan-dev2006/Leetcode/tree/master/0877-stone-game) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muskan-dev2006/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Muskan-dev2006/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -231,6 +232,7 @@
 | [0697-degree-of-an-array](https://github.com/Muskan-dev2006/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/Muskan-dev2006/Leetcode/tree/master/0740-delete-and-earn) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muskan-dev2006/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Muskan-dev2006/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Muskan-dev2006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Muskan-dev2006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -621,6 +623,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muskan-dev2006/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -686,6 +689,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Muskan-dev2006/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muskan-dev2006/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -702,6 +706,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Muskan-dev2006/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Muskan-dev2006/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Muskan-dev2006/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Muskan-dev2006/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/Muskan-dev2006/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Database
 |  |
